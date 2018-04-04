@@ -1,0 +1,12 @@
+.modal-slider-control{
+    background: transparent !important;
+    z-index: 10;
+    width: 5%;
+    color: #d5dbe7;
+    text-shadow: none;
+    opacity: 1;
+}
+.modal-slider-control:focus{ color: #d5dbe7; }
+.modal-slider-control:hover{ color: #7585a5; }
+.modal-slider-control .glyphicon-chevron-right,
+.modal-slider-control .glyphicon-chevron-left{ top: 45%; }
